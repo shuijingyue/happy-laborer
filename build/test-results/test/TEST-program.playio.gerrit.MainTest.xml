@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="program.playio.gerrit.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-27T05:16:12" hostname="PS2020ZPADNCWX" time="0.009">
-  <properties/>
-  <testcase name="bracket_bytes_test()" classname="program.playio.gerrit.MainTest" time="0.009"/>
-  <system-out><![CDATA[[41, 93, 125, 39, 10]
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
